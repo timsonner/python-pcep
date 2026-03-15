@@ -5,6 +5,7 @@ This repository follows the **PCEP-30-02** syllabus. Each block is subdivided in
 ## Syllabus Reference
 - [Official PCEP Syllabus](https://pythoninstitute.org/pcep-exam-syllabus)
 - [Python 3.12 Documentation (Standard Library)](https://docs.python.org/3.12/library/index.html)
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
 ## Course Structure
 
