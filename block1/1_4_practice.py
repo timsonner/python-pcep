@@ -1,5 +1,54 @@
 # Task: Demonstrate numeric (** // %), bitwise (~ & ^ | << >>), and relational (== != > <) operators.
 
+"""
+program to demonstrate the use of numeric, bitwise, and relational operators in Python.
+
+example output:
+Integer: 20, Float: 1337000.000, Binary: 00010100, Octal: 024, Hexadecimal: 00000014
+Integer: 65, Float: 1337000.000, Binary: 01000001, Octal: 0101, Hexadecimal: 00000041
+NOT: ~
+00010100
+11101011
+01000001
+10111110
+AND: &
+00010100
+01000001
+00000000
+XOR: ^
+00010100
+01000001
+01000001
+OR: |
+00010100
+01000001
+01010101
+Shift right offset: 2
+00010100
+00000101
+01000001
+00010000
+Shift left offset: 2
+00010100
+01010000
+01000001
+00000100
+20 == 65
+False
+20 != 65
+True
+20 < 65
+True
+20 > 65
+False
+20 ** 65
+36893488147419103232
+20 // 65
+0
+20 % 65
+20
+"""
+
 num_1 = 20
 num_2 = 65
 

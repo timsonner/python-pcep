@@ -1,3 +1,19 @@
+# Task: Create variables for Boolean, integer (binary, octal, hex), float (scientific notation), and string. Use PEP-8 naming.
+
+"""
+Program to demonstrate the use of different data types and f-string formatting in Python.
+
+example output:
+Boolean: False
+Integer: 1337, Float: 1337000.000, Binary: 000  010100111001, Octal: 02471, Hexadecimal: 00000539
+Squared: 1787569
+Square root: 36.561
+type cast print formatting
+Integer: 1337 Float: 1337000.0 Binary: 0b10100111001 Octal: 0o2471 Hexadecimal: 0x539
+Check a number: 1337
+Status of is_leet: True
+"""
+
 #import pdb; pdb.set_trace()
 import math
 
